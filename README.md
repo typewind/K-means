@@ -5,8 +5,10 @@
 
 # Manual
 1. Replace the data file path
-Before executing the "K_means.py", the path of the data files should be modified - towards the line 11 as shown below:
-file="Absolute path of CA2data.txt here" . 
+Before executing the "K_means.py", the path of the data files should be modified - towards the **line 11** as shown below:
+```
+file="Absolute path of CA2data.txt here" 
+```
 In order to run the script, please replace the content between "" to the absolute path of the data file. After the replacement, the path of file may like this:
 ```
 file="/Users/Desktop/DA2/CA2data.txt"
