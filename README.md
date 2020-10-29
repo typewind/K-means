@@ -1,4 +1,4 @@
-# K-means
+# K-means Task
 - Simple K-means algorithm
 - Assignment 2 of COMP527
 - Corresponding data can be download at [here](http://cgi.csc.liv.ac.uk/~danushka/lect/dm/CA2data.txt)
